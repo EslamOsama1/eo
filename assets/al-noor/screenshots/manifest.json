@@ -1,0 +1,56 @@
+[
+  {
+    "src": "assets/al-noor/screenshots/home.png?v=1795119947472",
+    "thumb": "assets/al-noor/screenshots/home.png?v=1795119947472",
+    "title": [
+      "Website homepage",
+      "الواجهة الرئيسية للموقع"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/al-noor/screenshots/about.png?v=1795119947472",
+    "thumb": "assets/al-noor/screenshots/about.png?v=1795119947472",
+    "title": [
+      "About the company page section",
+      "قسم التعريف بالشركة"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/al-noor/screenshots/services.png?v=1795119947472",
+    "thumb": "assets/al-noor/screenshots/services.png?v=1795119947472",
+    "title": [
+      "Services page section",
+      "قسم الخدمات والتخصصات"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/al-noor/screenshots/collection.png?v=1795119947472",
+    "thumb": "assets/al-noor/screenshots/collection.png?v=1795119947472",
+    "title": [
+      "Website work gallery",
+      "معرض الأعمال داخل الموقع"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/al-noor/screenshots/contact.png?v=1795119947472",
+    "thumb": "assets/al-noor/screenshots/contact.png?v=1795119947472",
+    "title": [
+      "Website contact section",
+      "قسم التواصل داخل الموقع"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/al-noor/screenshots/mobile-home.png?v=1795119947472",
+    "thumb": "assets/al-noor/screenshots/mobile-home.png?v=1795119947472",
+    "title": [
+      "Website homepage on mobile",
+      "واجهة الموقع على الموبايل"
+    ],
+    "portrait": true
+  }
+]
