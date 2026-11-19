@@ -1,0 +1,137 @@
+[
+  {
+    "src": "assets/flash-wash/dashboard.webp",
+    "thumb": "assets/flash-wash/dashboard-thumb.webp",
+    "title": [
+      "Admin overview",
+      "لوحة الإدارة"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/flash-wash/booking.webp",
+    "thumb": "assets/flash-wash/booking-thumb.webp",
+    "title": [
+      "Customer & vehicle details",
+      "بيانات العميل والسيارة"
+    ],
+    "portrait": true
+  },
+  {
+    "src": "assets/flash-wash/packages.webp",
+    "thumb": "assets/flash-wash/packages-thumb.webp",
+    "title": [
+      "Choosing a wash package",
+      "اختيار باقة الغسيل"
+    ],
+    "portrait": true
+  },
+  {
+    "src": "assets/flash-wash/payment.webp",
+    "thumb": "assets/flash-wash/payment-thumb.webp",
+    "title": [
+      "Payment options",
+      "طرق الدفع"
+    ],
+    "portrait": true
+  },
+  {
+    "src": "assets/flash-wash/operations.webp",
+    "thumb": "assets/flash-wash/operations-thumb.webp",
+    "title": [
+      "Operations dashboard",
+      "لوحة التشغيل"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/flash-wash/worker.webp",
+    "thumb": "assets/flash-wash/worker-thumb.webp",
+    "title": [
+      "Worker dashboard",
+      "لوحة العامل"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/flash-wash/wash-photos.webp",
+    "thumb": "assets/flash-wash/wash-photos-thumb.webp",
+    "title": [
+      "Before & after wash photos",
+      "صور قبل وبعد الغسيل"
+    ],
+    "portrait": true
+  },
+  {
+    "src": "assets/flash-wash/order-status.webp",
+    "thumb": "assets/flash-wash/order-status-thumb.webp",
+    "title": [
+      "Following the order",
+      "متابعة حالة الطلب"
+    ],
+    "portrait": true
+  },
+  {
+    "src": "assets/flash-wash/in-progress.webp",
+    "thumb": "assets/flash-wash/in-progress-thumb.webp",
+    "title": [
+      "Wash in progress",
+      "الغسيل قيد التنفيذ"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/flash-wash/attendance.webp",
+    "thumb": "assets/flash-wash/attendance-thumb.webp",
+    "title": [
+      "Team & attendance",
+      "الفريق والحضور"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/flash-wash/manage-packages.webp",
+    "thumb": "assets/flash-wash/manage-packages-thumb.webp",
+    "title": [
+      "Managing packages",
+      "إدارة الباقات"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/flash-wash/expenses.webp",
+    "thumb": "assets/flash-wash/expenses-thumb.webp",
+    "title": [
+      "Expenses overview",
+      "متابعة المصروفات"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/flash-wash/financial.webp",
+    "thumb": "assets/flash-wash/financial-thumb.webp",
+    "title": [
+      "Financial reports",
+      "التقارير المالية"
+    ],
+    "portrait": true
+  },
+  {
+    "src": "assets/flash-wash/review.webp",
+    "thumb": "assets/flash-wash/review-thumb.webp",
+    "title": [
+      "Completed service & rating",
+      "الخدمة المكتملة والتقييم"
+    ],
+    "portrait": true
+  },
+  {
+    "src": "assets/flash-wash/thank-you.webp",
+    "thumb": "assets/flash-wash/thank-you-thumb.webp",
+    "title": [
+      "Rating confirmation",
+      "تأكيد التقييم"
+    ],
+    "portrait": true
+  }
+]

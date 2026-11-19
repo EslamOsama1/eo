@@ -1,0 +1,152 @@
+[
+  {
+    "src": "assets/eggtrade/dashboard.webp",
+    "thumb": "assets/eggtrade/dashboard-thumb.webp",
+    "title": [
+      "Business overview",
+      "لوحة التحكم"
+    ],
+    "portrait": false,
+    "table": false
+  },
+  {
+    "src": "assets/eggtrade/invoices.webp",
+    "thumb": "assets/eggtrade/invoices-thumb.webp",
+    "title": [
+      "Sales & purchase invoice register",
+      "جدول فواتير البيع والشراء"
+    ],
+    "portrait": false,
+    "table": true
+  },
+  {
+    "src": "assets/eggtrade/egg-stock.webp",
+    "thumb": "assets/eggtrade/egg-stock-thumb.webp",
+    "title": [
+      "Egg inventory table",
+      "جدول مخزون البيض"
+    ],
+    "portrait": false,
+    "table": true
+  },
+  {
+    "src": "assets/eggtrade/chick-stock.webp",
+    "thumb": "assets/eggtrade/chick-stock-thumb.webp",
+    "title": [
+      "Chick inventory table",
+      "جدول مخزون الكتاكيت"
+    ],
+    "portrait": false,
+    "table": true
+  },
+  {
+    "src": "assets/eggtrade/traders.webp",
+    "thumb": "assets/eggtrade/traders-thumb.webp",
+    "title": [
+      "Traders & balances",
+      "التجار والأرصدة"
+    ],
+    "portrait": false,
+    "table": true
+  },
+  {
+    "src": "assets/eggtrade/treasury-ledger.webp",
+    "thumb": "assets/eggtrade/treasury-ledger-thumb.webp",
+    "title": [
+      "Treasury transaction table",
+      "جدول حركة الخزنة"
+    ],
+    "portrait": false,
+    "table": true
+  },
+  {
+    "src": "assets/eggtrade/treasury.webp",
+    "thumb": "assets/eggtrade/treasury-thumb.webp",
+    "title": [
+      "Treasury balance",
+      "رصيد الخزنة"
+    ],
+    "portrait": false,
+    "table": false
+  },
+  {
+    "src": "assets/eggtrade/cash-summary.webp",
+    "thumb": "assets/eggtrade/cash-summary-thumb.webp",
+    "title": [
+      "Cash inflows & outflows",
+      "ملخص حركة الأموال"
+    ],
+    "portrait": false,
+    "table": false
+  },
+  {
+    "src": "assets/eggtrade/expenses.webp",
+    "thumb": "assets/eggtrade/expenses-thumb.webp",
+    "title": [
+      "Expenses & categories",
+      "المصروفات والتصنيفات"
+    ],
+    "portrait": false,
+    "table": true
+  },
+  {
+    "src": "assets/eggtrade/attendance.webp",
+    "thumb": "assets/eggtrade/attendance-thumb.webp",
+    "title": [
+      "Worker attendance table",
+      "جدول حضور العمال"
+    ],
+    "portrait": false,
+    "table": true
+  },
+  {
+    "src": "assets/eggtrade/worker-payments.webp",
+    "thumb": "assets/eggtrade/worker-payments-thumb.webp",
+    "title": [
+      "Salary payments",
+      "صرف المرتبات"
+    ],
+    "portrait": false,
+    "table": false
+  },
+  {
+    "src": "assets/eggtrade/add-expense.webp",
+    "thumb": "assets/eggtrade/add-expense-thumb.webp",
+    "title": [
+      "Recording an expense",
+      "تسجيل مصروف"
+    ],
+    "portrait": false,
+    "table": false
+  },
+  {
+    "src": "assets/eggtrade/invoice-detail.webp",
+    "thumb": "assets/eggtrade/invoice-detail-thumb.webp",
+    "title": [
+      "Invoice details",
+      "تفاصيل الفاتورة"
+    ],
+    "portrait": true,
+    "table": false
+  },
+  {
+    "src": "assets/eggtrade/invoice-history.webp",
+    "thumb": "assets/eggtrade/invoice-history-thumb.webp",
+    "title": [
+      "Invoice & payment history",
+      "الفاتورة وسجل الدفعات"
+    ],
+    "portrait": false,
+    "table": true
+  },
+  {
+    "src": "assets/eggtrade/purchase-detail.webp",
+    "thumb": "assets/eggtrade/purchase-detail-thumb.webp",
+    "title": [
+      "Purchase invoice breakdown",
+      "تفاصيل فاتورة الشراء"
+    ],
+    "portrait": false,
+    "table": false
+  }
+]

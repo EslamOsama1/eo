@@ -1,0 +1,4 @@
+/* Solid accent type avoids overlapping outlines in large headlines. */
+.hero h1{letter-spacing:-.025em;line-height:1.14;font-size:clamp(54px,7vw,112px);font-kerning:normal}.hero .outline{color:var(--accent);-webkit-text-stroke:0;font-weight:600;letter-spacing:-.015em}.hero-grid,.hero-side{min-width:0}.hero h1{overflow-wrap:normal}.rtl .hero h1{letter-spacing:0;line-height:1.42}.rtl .hero .outline{letter-spacing:0}.showcase-al-noor .showcase-stage,.art-al-noor{background:#c4ad8b}.showcase-al-noor .screen-wrap{border-color:#483c2d}.showcase-al-noor .screen-top{background:#483c2d}.showcase-al-noor .floating-note{background:#f3ead9;color:#4b3b29}
+@media(max-width:800px){.hero h1{font-size:clamp(47px,9vw,78px);line-height:1.18}.rtl .hero h1{font-size:clamp(55px,11vw,85px);line-height:1.4}}
+@media(max-width:380px){.hero h1{font-size:clamp(36px,11vw,45px)}.rtl .hero h1{font-size:55px}}

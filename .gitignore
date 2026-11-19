@@ -1,0 +1,19 @@
+# Local preparation scripts; the website runs without these.
+*.py
+*.cjs
+!server.cjs
+
+# Local tooling and credentials
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+.vscode/
+
+# Temporary review exports
+*-review.*
+*.zip

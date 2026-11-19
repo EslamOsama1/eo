@@ -1,0 +1,74 @@
+[
+  {
+    "src": "assets/al-noor/website-work-01.webp",
+    "thumb": "assets/al-noor/website-work-01-thumb.webp",
+    "title": [
+      "Website imagery · Furniture",
+      "بوفيه بمرآة وإضاءة مدمجة — من صور الموقع"
+    ],
+    "portrait": true
+  },
+  {
+    "src": "assets/al-noor/website-work-02.webp",
+    "thumb": "assets/al-noor/website-work-02-thumb.webp",
+    "title": [
+      "Website imagery · Kitchens",
+      "مطبخ بوحدات رمادي وإضاءة دافئة — من صور الموقع"
+    ],
+    "portrait": true
+  },
+  {
+    "src": "assets/al-noor/website-work-03.webp",
+    "thumb": "assets/al-noor/website-work-03-thumb.webp",
+    "title": [
+      "Website imagery · Doors",
+      "باب خشبي بتقسيمات كلاسيكية — من صور الموقع"
+    ],
+    "portrait": true
+  },
+  {
+    "src": "assets/al-noor/website-work-04.webp",
+    "thumb": "assets/al-noor/website-work-04-thumb.webp",
+    "title": [
+      "Website imagery · Carving & CNC",
+      "تفاصيل الحفر أثناء التشغيل — من صور الموقع"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/al-noor/website-work-05.webp",
+    "thumb": "assets/al-noor/website-work-05-thumb.webp",
+    "title": [
+      "Website imagery · University auditoriums",
+      "توزيع المقاعد والممر الأوسط — من صور الموقع"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/al-noor/website-work-06.webp",
+    "thumb": "assets/al-noor/website-work-06-thumb.webp",
+    "title": [
+      "Website imagery · University labs",
+      "وحدات عمل وتجهيزات معمل — من صور الموقع"
+    ],
+    "portrait": false
+  },
+  {
+    "src": "assets/al-noor/website-work-07.webp",
+    "thumb": "assets/al-noor/website-work-07-thumb.webp",
+    "title": [
+      "Website imagery · Kitchens",
+      "مطبخ أبيض بسطح أسود — من صور الموقع"
+    ],
+    "portrait": true
+  },
+  {
+    "src": "assets/al-noor/website-work-08.webp",
+    "thumb": "assets/al-noor/website-work-08-thumb.webp",
+    "title": [
+      "Website imagery · Kitchens",
+      "مطبخ رمادي غامق بوحدات زجاجية — من صور الموقع"
+    ],
+    "portrait": true
+  }
+]
